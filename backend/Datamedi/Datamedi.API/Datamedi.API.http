@@ -1,0 +1,6 @@
+@Datamedi.API_HostAddress = http://localhost:5164
+
+GET {{Datamedi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
