@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Datamedi.Application\Datamedi.Application.csproj" />
+    <ProjectReference Include="..\Datamedi.Domain\Datamedi.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
