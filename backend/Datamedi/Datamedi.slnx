@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="Datamedi.API/Datamedi.API.csproj" />
+  <Project Path="Datamedi.Application/Datamedi.Application.csproj" Id="c0a63350-ab96-4746-9a06-366b9afc4b33" />
+  <Project Path="Datamedi.Domain/Datamedi.Domain.csproj" />
+  <Project Path="Datamedi.Infrastructure/Datamedi.Infrastructure.csproj" />
 </Solution>
