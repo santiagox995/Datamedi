@@ -20,6 +20,7 @@
 * Telefono	VARCHAR(20)	Contacto
 * Direccion	VARCHAR(200)	Dirección
 * Correo	VARCHAR(150)	Correo
+* Alergias	TEXT	
 * TipoSangre	VARCHAR(5)	Tipo sanguíneo
 * FechaRegistro	DATE	Fecha registro
 
@@ -31,7 +32,6 @@
 * Motivo	TEXT
 * Diagnostico	TEXT
 * Medicamentos	TEXT	
-* Alergias	TEXT	
 * Tratamiento	TEXT
 * Observaciones	TEXT
 
