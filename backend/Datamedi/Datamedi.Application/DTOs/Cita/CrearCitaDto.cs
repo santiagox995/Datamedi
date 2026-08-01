@@ -4,13 +4,10 @@ using System.Text;
 
 namespace Datamedi.Application.DTOs.Cita
 {
-    //mostrar informacion de una cita en el sistema
-    public class CitaDto
+    // Datos necesarios para crear una cita en el sistema
+    public class CrearCitaDto
     {
-        // id de la cita
-        public int Id { get; set; }
-        
-        // id del paciente al que se le asigno la cita
+        // id del paciente al que se le asignara la cita
         public int PacienteId { get; set; }
         // fecha en la que se realizara la cita
         public DateTime Fecha { get; set; }
