@@ -11,9 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\Consulta\" />
-    <Folder Include="DTOs\Cita\" />
-    <Folder Include="DTOs\Paciente\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Mappings\" />
     <Folder Include="Exceptions\" />
