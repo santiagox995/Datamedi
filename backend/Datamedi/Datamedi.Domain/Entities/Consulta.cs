@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Datamedi.Domain.Entities
 {
-    internal class Consulta // Esta clase representa la consulta médica que realiza el doctor al paciente.
+    public class Consulta // Esta clase representa la consulta médica que realiza el doctor al paciente.
     {
         public int Id { get; set; }
         public int PacienteId { get; set; }

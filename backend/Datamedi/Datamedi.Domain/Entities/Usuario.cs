@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Datamedi.Domain.Entities
 {
-    internal class Usuario // Esta clase representa al usuario el cual seria el doctor que atiende al paciente.
+    public class Usuario // Esta clase representa al usuario el cual seria el doctor que atiende al paciente.
     {
         public int Id { get; set; }
         public string Nombre { get; set; } = string.Empty;
